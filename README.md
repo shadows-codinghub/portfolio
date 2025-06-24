@@ -9,7 +9,7 @@ This project is originally inspired by [Original Author's GitHub Profile](https:
 ## 📸 Preview
 
 ![Portfolio Screenshot](Images/readme.png)
-[![Live Portfolio](https://img.shields.io/badge/Live-Website-brightgreen?style=for-the-badge)](https://your-portfolio.vercel.app)
+[![Live Portfolio](https://img.shields.io/badge/Live-Website-brightgreen?style=for-the-badge)](https://portfolio-three-chi-mwf3k47k2o.vercel.app/)
 
 
 ## 🚀 About Me
