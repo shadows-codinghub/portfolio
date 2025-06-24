@@ -4,6 +4,9 @@ Hi, I'm **Adharsh K.** 👋
 I'm a passionate and curious tech enthusiast who loves building projects, exploring system internals, and learning new technologies. I enjoy working on open-source projects, creating interactive games, and diving deep into operating systems, networking, and backend development.
 
 ---
+## Attribution
+This project is originally inspired by [Original Author's GitHub Profile](https://github.com/soumyajit4419). Proper credits are given in the LICENSE file.
+
 
 ## 🚀 About Me
 
