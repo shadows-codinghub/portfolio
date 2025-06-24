@@ -6,7 +6,9 @@ I'm a passionate and curious tech enthusiast who loves building projects, explor
 ---
 ## Attribution
 This project is originally inspired by [Original Author's GitHub Profile](https://github.com/soumyajit4419). Proper credits are given in the LICENSE file.
+## 📸 Preview
 
+![Portfolio Screenshot](Images/readme.png)
 
 ## 🚀 About Me
 

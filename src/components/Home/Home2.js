@@ -30,7 +30,7 @@ function Home2() {
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">Web Technologies and networking</b> and
                 also in areas related to{" "}
                 <b className="purple">
                   Full Stack Development
@@ -39,9 +39,9 @@ function Home2() {
               <br />
               <br />
               
-              &nbsp; like
+              &nbsp; Currently learning
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js, java, and web development</b>
               </i>
             </p>
           </Col>
